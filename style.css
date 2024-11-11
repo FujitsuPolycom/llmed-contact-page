@@ -123,6 +123,11 @@
 
 @media screen and (max-width: 600px) {
 
+  .options > a {
+    font-size: 16px; /* Adjust to preferred smaller size */
+    line-height: 1.2;
+  }
+  
 .container{
     background-size: cover;
     background-position-y: center;
